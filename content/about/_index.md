@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Yo"
 description: |
-  A Hugo theme made for R Markdown users.
+  R Markdown.
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.

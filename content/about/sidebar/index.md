@@ -1,19 +1,19 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
-avatar_shape: rounded # circle, square, rounded
+author: "Julio Collazos "
+role: "Economista"
+avatar_shape:  # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: true
-audio_link_label: "How to say my name"
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+show_audio_link: false
+audio_link_label: ""
+link_list_label: "Páginas recomendadas" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Economía
+  url: https://www.thebigquestions.com/blog/
+- name: Marxismo
+  url: https://www.google.com/search?q=useless+stuff&oq=useless+stuff&aqs=chrome..69i57.6817j0j1&sourceid=chrome&ie=UTF-8
+- name: Música
+  url: https://www.youtube.com/watch?v=QmMjY6tXaEo
 ---
 
 ** index doesn't contain a body, just front matter above.

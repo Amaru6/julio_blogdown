@@ -19,7 +19,7 @@ Tanto en Econometría como en Machine Learning esto es más arte que ciencia y d
 
 ## Mi camino
 Como he mencionado anteriormente, me emocioné bastante cuando descubrí que simplemente necesitaba más poder computacional, pero luego de pensar un momento me he dado cuenta que ese es el camino a la perdición y a prácticas irresponsables.  
-Ahora, no creo considero que Data Science y Machine Learning sean inútiles, al contrario, adecuadamente ejecutadas pueden ser muy útiles , véase un [ejemplo](https://www.youtube.com/watch?v=lji-jNsXmAM), PERO siendo completamente honesto conmigo mismo creo que para llegar al punto en el cual pueda implementar modelos de Machine Learning de manera **responsable**  y **eficiente**  necesito seguir aprendiendo y cometer los suficientes errores, ya he cometido uno: creer que puedo reemplazar pensamiento por gigabytes.
+Ahora, no considero que Data Science y Machine Learning sean inútiles, al contrario, adecuadamente ejecutadas pueden ser muy útiles , véase un [ejemplo](https://www.youtube.com/watch?v=lji-jNsXmAM), PERO siendo completamente honesto conmigo mismo creo que para llegar al punto en el cual pueda implementar modelos de Machine Learning de manera **responsable**  y **eficiente**  necesito seguir aprendiendo y cometer los suficientes errores, ya he cometido uno: creer que puedo reemplazar pensamiento por gigabytes.
 
 
 ---

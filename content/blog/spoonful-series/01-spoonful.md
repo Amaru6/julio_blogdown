@@ -3,7 +3,7 @@ title: "Vuelta atrás en Machine Learning"
 weight: 1
 subtitle: ""
 excerpt: "Machine Learning es espectacular, pero es más que *Machines*."
-date: 2021-01-01
+date: 2022-02-12
 draft: false
 ---
 

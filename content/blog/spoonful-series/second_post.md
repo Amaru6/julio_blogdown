@@ -22,4 +22,4 @@ Todo se hace ad-hoc como un robot y vuelvo a decir, ¿a quién le importa?¡A lo
 > A big computer, a complex algorithm and a long time does not equal science.
 -- Robert Gentleman 
 
-Simplemente quiero decir que sí es posible hacer que las cosas tengan sentido y que en lugar de aplicar una solución a un problema es posible encontrar un principio que responda una clase entera de problemas. Solamente las personas que les gusta las estrellas al lado de sus coeficientes no estarán de acuerdo conmigo.
+Simplemente quiero decir que sí es posible hacer que las cosas tengan sentido y que en lugar de aplicar una solución a un problema es posible encontrar un principio que responda una clase entera de problemas. Solamente las personas que les gusta las estrellitas al lado de sus coeficientes no estarán de acuerdo conmigo.

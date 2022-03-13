@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Bienvenido a mi expectacular página web. 
+  Bienvenido a mi espectacular página web. 
 ---
 
 <!-- this is a subheadline -->

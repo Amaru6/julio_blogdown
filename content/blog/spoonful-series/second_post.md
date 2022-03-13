@@ -17,7 +17,7 @@ una vez terminada la lamentable tarea la conversación fue así:
 - Él: ¡¿En libros?! Yo creí que habías llevado un curso
 
 Creo que esa persona hablo por más de una, ni siquiera consideramos que es posible llegar a entender a través de una lectura activa. Aún las personas que llevan cursos de programación me atrevería a decir no son capaces de entender lo básico: ¿qué es un objeto?, ¿qué es una variable?, ¿qué es una IDE?, ...
-Todo se hace ad-hoc como un robot y vuelvo a decir, ¿a quién le importa?¡A los empleadores les importa! En lugar de discutir sobre la desirabilidad de un lugar donde a nadie le importe reflexionar sino simplemente aplicar receta 1 a problema 1 me limitaré a poner una de mis mejores citas la cuál encontré  [aquí](https://stats.stackexchange.com/questions/726/famous-statistical-quotations)
+Todo se hace ad-hoc como un robot y vuelvo a decir, ¿a quién le importa?¡A los empleadores les importa! En lugar de discutir sobre la desiderabilidad de un lugar donde a nadie le importe reflexionar sino simplemente aplicar receta 1 a problema 1 me limitaré a poner una de mis mejores citas la cuál encontré  [aquí](https://stats.stackexchange.com/questions/726/famous-statistical-quotations)
 
 > A big computer, a complex algorithm and a long time does not equal science.
 -- Robert Gentleman 

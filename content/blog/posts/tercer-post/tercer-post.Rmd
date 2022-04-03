@@ -1,10 +1,8 @@
 ---
-title: "Sampling Distribution"
-weight: 1
-subtitle: ""
-excerpt: "em_"
-date: 2022-02-12
-draft: false
+title: "producto-3"
+author: "Julio Collazos"
+date: "3/4/2022"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}

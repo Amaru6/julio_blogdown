@@ -1,0 +1,20 @@
+---
+title: "Rmarkdown"
+weight: 1
+subtitle: ""
+excerpt: "Life changing technology"
+date: 2022-07-27
+draft: false
+---
+
+Así que ahí estaba yo con el mismo profesor que semestres atrás me había reprobado y, una vez más, **a punto de reprobar**. "Voy a asignar un trabajo con el cual podrán subir su nota" dijo, yo no podía estar más contento... hasta que dijo "pero no es fácil... tienen que hacer muchos cálculos en la computadora, descargar datos, ordenarlos y presentar el informe. Para los primeros que presenten habrá puntos adicionales". Long story short: **me quedé toda la madrugada despierto sumando  y restando con la calculadora porque no tenía idea de cómo funcionaban las funciones en Excel además de no tener idea de cómo organizar un documento en word.**  La siguiente clase comenzó como de cosutmbre, pero esta vez el profesor dijo "Un chico ya ha presentado, al parecer sabe usar el Excel", totalmente inconsciente del infierno de la noche que tuve que pasar. Ese día la pasé tan mal que me aseguré que no vuelva a pasar. 
+¿Cómo podía hacer mi vida más fácil al momento de manipular datos para que no tenga que pasar horas y horas tratando de poner mis datos en la forma correcta? Ya había probado Stata y SPSS (a un nivel ultra básico, es más ni siquiera recuerdo como importar un excel ahí e incluso ni los tengo instalados),se sentían como una versión de Excel con esteroides. (*Nota:* No tengo nada en contra de Excel simplemente años de frustraciones me han hecho buscar otras alternativas más *expresivas*, por ejemplo, creo que todos podemos relacionar el hecho que hemos buscado un vídeo en Youtube de **10 minutos** para únicamente usar un comando que se aplica en **10 segundos**), afortunadamente para mí me había matriculado en Econometría I donde el programa estadístico a usar era R, totalmente nuevo para mí, y ¿ cómo puedo decirlo sin exagerar ? **Me cambió la vida para mejorr**,  bastante temprano aprendí que los datos enviados en clases **solo se presentaban en clase**  en el mundo real las "tablas perfectas" no existen tienes que construirlas tú. 
+
+> Classroom data are like teddy bears and real data are like grizzley bear with salmon blood dripping out its mouth - Jenny Bryan
+
+Y tiene razón, como mencioné esa madrugada me lo hizo saber de la peor manera.
+Okay, quizás seas un dios del Excel, Stata, SPSS, Python, etc y sepas cómo "limpiar tus datos", so what? Como es común con los trabajos de la universidad, no le vas a decir a tu profesor o a una audiencia, ¡Mire mi elegante código, aquí están todos los resultados! Lo más probable es que te manden bien lejos(Lo digo así para no perder mi licencia de caballero), vas a tener que presentar el informe de una forma que tu audiencia lo pueda entender Rmarkdown es el medio por el cuál puedes lograr eso, ¿ no sería genial combinar texto y código para que así **literalmente** no tengas que salir de tu editor de scripts? Sí es posible estimado lector. Cuando me enteré de esta maravilla por internet, notablemente el vídeo de [Rob Hyndman](https://www.youtube.com/watch?v=_D-ux3MqGug), no podía esperar a tener mis manos sobre ellos así que pasé días tratando de crear un pdf con una carátula, índice, y todo lo que se requiere para tener un documento presentable e historia corta no lo logré, estuve meses e incluso me rendí en ese tiempo, busqué alternativas como \LaTeX, pero siempre mi mente me recordaba que había otra solución mejor. Meses después aquí estoy, a punto de graduarme y haciendo mi tesis en Rmarkdown, pasando mis días consultando StackOverflow y Latex Cookbook.
+
+Consultando Wikipedia o cualquier libro de economía puedes deducir que el motor del crecimiento tecnológico es el avance tecnológico, razonable, pero ¿ qué genera el avance tecnológico en primer lugar? Microsoft ha tenido Excel por décadas y , hasta donde sé, no tienen una manera que sea tan sencilla de integrar el análisis de datos y la presentación., lo mismo puede decirse de SPSS y Stata. No sé que le pasaba por la cabeza a Yihui Xie y colaboradores cuando inventaron Rmarkdown, pero desde mi humilde morada les puedo decir que me cambiaron la vida. 
+
+{\Huge Gracias}

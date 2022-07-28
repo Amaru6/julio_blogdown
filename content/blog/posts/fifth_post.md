@@ -17,4 +17,4 @@ Okay, quizás seas un dios del Excel, Stata, SPSS, Python, etc y sepas cómo "li
 
 Consultando Wikipedia o cualquier libro de economía puedes deducir que el motor del crecimiento tecnológico es el avance tecnológico, razonable, pero ¿ qué genera el avance tecnológico en primer lugar? Microsoft ha tenido Excel por décadas y , hasta donde sé, no tienen una manera que sea tan sencilla de integrar el análisis de datos y la presentación., lo mismo puede decirse de SPSS y Stata. No sé que le pasaba por la cabeza a Yihui Xie y colaboradores cuando inventaron Rmarkdown, pero desde mi humilde morada les puedo decir que me cambiaron la vida. 
 
-\Huge Gracias
+Gracias.
